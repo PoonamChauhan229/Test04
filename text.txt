@@ -1,2 +1,12 @@
 git init
 git remote add origin https://github.com/PoonamChauhan229/Test04.git
+git add .
+git commit -m"gitsession and deploy"
+git push
+
+If any changes in samefile
+git add .
+git commit -m"gitsession and deploy"
+git push
+
+
